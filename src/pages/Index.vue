@@ -19,8 +19,8 @@
     
 
     <p class="home-links">
-      <a href="https://gridsome.org/docs/" target="_blank" rel="noopener">Gridsome Docs</a>
-      <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.stakingrewards.com/earn/secret-network/providers" target="_blank" rel="noopener">SCRT Validator List</a>
+      <a href="https://blog-admin.scrt.network/staking-secrets-guide-to-staking-delegating-scrt/" target="_blank" rel="noopener">Tutorials</a>
     </p>
 
   </Layout>
