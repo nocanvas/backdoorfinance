@@ -2,7 +2,7 @@
   <Layout>
 
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="~/island3.png" width="635" />
+    <g-image alt="Example image" src="~/island2.png" width="635" />
 
     <h1>SCRT Island 🏝️</h1>
 
