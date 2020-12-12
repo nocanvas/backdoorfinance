@@ -4,7 +4,7 @@
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <g-image alt="Example image" src="~/island2.png" width="635" />
 
-    <h1>SCRT Island 🏝️</h1>
+    <h1>SCRTisland 🏝️</h1>
 
     <p>
      We are building a SCRT validator which will net you credits that can be redeemed for invites to our SCRT island.</p>
