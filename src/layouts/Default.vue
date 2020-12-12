@@ -6,7 +6,7 @@
       </strong>
       <nav class="nav">
         <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
+        <g-link class="nav__link" to="/validator/">SCRT Validator</g-link>
         <g-link class="nav__link" to="/where-is-the-island/">Where is the Island?</g-link>
       </nav>
     </header>

@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <h1>Where is this SCRT Island?</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
+    <p>I'm sure a good internet detective could figure it out, but I'll say it is about below 10 degrees north of the equator, the water is about 87 degrees, and the we have air-conditioning and luxury linens on our beds.</p>
   </Layout>
 </template>
 
