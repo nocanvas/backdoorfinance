@@ -1,28 +1,64 @@
 <template>
   <Layout>
 
-    <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="~/island2.png" width="635" />
-
-    <h1>SCRTisland 🏝️</h1>
-
-    <p>
-     We are building a SCRT validator which will net you credits that can be redeemed for invites to our SCRT island.</p>
-     <h2>Wait, there is a SCRT Island?</h2>
-       <p>
-     Well, yes ... and no.  Depends who you know. If you knew me, yes, you can get invited. If you own a yacht and maybe a seaplane we can get you out here no problem. But other than that you need to get invited.... and thats where the SCRT Validator comes in.</p>
-     <p>
-    Stake your SCRT on the SCRTisland validator and you will earn a token which can be redeemed for an invite to a SCRT island conference, time TBD</p>
-     <h2>This sounds made up...</h2>
-       <p>
-     I happen to love SCRT, and also manage and run a private island for water sports enthusiast, but you'd only have gone if you were a professional athlete or own a fortune 500 company. However I want to make the meme a reality and have SCRT island conference with our community.</p>
-    
-
-    <p class="home-links">
-      <a href="https://www.stakingrewards.com/earn/secret-network/providers" target="_blank" rel="noopener">SCRT Validator List</a>
-      <a href="https://blog-admin.scrt.network/staking-secrets-guide-to-staking-delegating-scrt/" target="_blank" rel="noopener">Tutorials</a>
-    </p>
-
+		
+   <div class="wrapper" >
+	   
+	   <img class="logo" src="img/backdoor1.png"/>
+	  <div class="list_container">
+	 <ul>
+	 <li><a href="https://scrt.network/">Secret Network</a></li>
+	 <li><a href="https://scrtisland.com/">scrtIsland</a></li>
+	 <br />
+	 <li><a href="https://twitter.com/vegsurfer/status/1365475432473108485">Vegan Sausage @ Rare Pizzas</a></li>
+	 <br />
+	 
+	<li><i class="small">press</i></li>
+	 <li><a href="https://chapter11.tv/2021/03/05/009/">Chapter 11 TV Mar 8, 2021</a></li>
+	 <li><a href="https://podcasts.apple.com/us/podcast/episode-92-john-caldwell-on-surfing-yoga-veganism/id1463253579?i=1000510614758">Yoga is Vegan Podcast Feb 29, 2021</a></li>
+	 <li><a href="https://btcmanager.com/island-surf-resort-pacific-payment-bitcoin/">BTC Manager Finance Feb 23, 2021</a></li>
+	 <li><a href="https://finance.yahoo.com/news/now-rent-private-island-surf-152418856.html">Yahoo! Finance Feb 22, 2021</a></li>
+	 <li><a href="https://www.coindesk.com/marshall-islands-luxury-surf-resort-bitcoin">Coindesk Feb 22, 2021</a></li>
+	 <li><a href="https://beachgrit.com/2021/02/book-out-private-island-at-worlds-last-surf-paradise-for-one-week-for-one-bitcoin-ive-died-and-gone-to-heaven-says-surf-explorer-martin-daly/">BeachGrit Feb 21, 2021</a></li>
+	 <br />
+	 <li><i class="small">upcoming</i></li>
+	 <li><a href="https://www.joinclubhouse.com/event/mWK1QOWE">Privacy and Blockchain w/ Crypto Club<br />Mar 11, 12PM PST</a></li><br />
+	 <li><a href="#">Privacy & NFTs w/ NFTS.tips<br />Mar 12, 12PM PST</a></li><br />
+	 <li><a href="https://www.joinclubhouse.com/event/mWK1QOWE">Namespace & Privacy w/ DEFI Club<br />Mar 17, 4PM PST</a></li><br />
+	 </ul>
+	 </div>
+       <br /><br /><br />
+       
+       <i>by</i> <br />
+       <img class="veg" src="img/veg.png"/>
+	 
+	 <div class="list_container">
+	 <ul>
+	 <li><a href="https://www.instagram.com/vegsurfer/">Instagram</a></li>
+	 <li><a href="https://twitter.com/vegsurfer/">Twitter</a></li>
+	 <li><a href="https://t.me/vegsurfer">Telegram</a></li>
+	 <li><a href="https://www.linkedin.com/in/vegsurfer/">Linked In</a></li>
+	 <li><a href="https://etherscan.io/address/0x7c6553933a471b43ce3a76a02245c5162c82522c">ENS</a></li>
+	 <li><a href="https://opensea.io/accounts/vegsurfer">Opensea</a></li>
+	 <br />
+	 <li><i class="small">aka backdoor johnny, johnny coconut, nocanvas, scrtisland</i></li>
+	 
+	 
+	 </ul>
+	 </div>
+	 
+	 <br /><br /><br />
+	 
+	 <img class="surf" src="img/surf2.gif"/>
+	  <br /><br /><br />
+	 <img class="surf" src="img/dive33.jpg"/>
+	  <br /><br /><br />
+	 <img class="surf" src="img/pizza.jpg"/>
+	 <br /><br /><br />
+	 <img class="surf" src="img/btc3.jpg"/>
+	 
+	 
+   </div>
   </Layout>
 </template>
 
