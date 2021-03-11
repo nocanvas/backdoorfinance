@@ -1,15 +1,6 @@
 <template>
   <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/validator/">SCRT Validator</g-link>
-        <g-link class="nav__link" to="/where-is-the-island/">Where is the Island?</g-link>
-      </nav>
-    </header>
+    
     <slot/>
   </div>
 </template>
@@ -24,28 +15,43 @@ query {
 
 <style>
 body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
-  line-height: 1.5;
+  font-family: 'arial', helvetica, sans serif;
+  width: 100%;
+  margin: 0;
+  background: transparent;
+  color: #0c0a34;
 }
 
-.layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
+h1 {
+ 
 }
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
+h2 {
+ 
 }
 
-.nav__link {
-  margin-left: 20px;
+
+.wrapper {width: 800px; margin: 20px auto; text-align: center;}
+
+.list_container {text-align: center; width: 300px; margin: 10px auto;}
+
+.list_container ul {list-style: none; margin: 0; padding: 0;}
+
+.surf {width: 600px; margin: 0 auto;}
+
+.small {font-size: 10px;}
+
+@media only screen and (max-width: 800px) {
+ 
+ .wrapper {width: 90%; margin: 20px auto; text-align: center;}
+.surf {width: 90%; }
+
+img {width: 100%; height: auto;}
+
+body {font-size: 20px;}
+
+
 }
+
+
 </style>
