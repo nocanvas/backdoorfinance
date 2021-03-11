@@ -4,7 +4,7 @@
 		
    <div class="wrapper" >
 	   
-	   <img class="logo" src="~/img/backdoor1.png"/>
+	   <g-image class="logo" src="~/img/backdoor1.png" width="800"/>
 	  <div class="list_container">
 	 <ul>
 	 <li><a href="https://scrt.network/">Secret Network</a></li>
