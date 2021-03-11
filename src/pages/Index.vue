@@ -4,7 +4,7 @@
 		
    <div class="wrapper" >
 	   
-	   <img class="logo" src="./img/backdoor1.png"/>
+	   <img class="logo" src="~/img/backdoor1.png"/>
 	  <div class="list_container">
 	 <ul>
 	 <li><a href="https://scrt.network/">Secret Network</a></li>
@@ -30,7 +30,7 @@
        <br /><br /><br />
        
        <i>by</i> <br />
-       <img class="veg" src="img/veg.png"/>
+       <img class="veg" src="~/img/veg.png"/>
 	 
 	 <div class="list_container">
 	 <ul>
@@ -49,13 +49,13 @@
 	 
 	 <br /><br /><br />
 	 
-	 <img class="surf" src="img/surf2.gif"/>
+	 <img class="surf" src="~/img/surf2.gif"/>
 	  <br /><br /><br />
-	 <img class="surf" src="img/dive33.jpg"/>
+	 <img class="surf" src="~/img/dive33.jpg"/>
 	  <br /><br /><br />
-	 <img class="surf" src="img/pizza.jpg"/>
+	 <img class="surf" src="~/img/pizza.jpg"/>
 	 <br /><br /><br />
-	 <img class="surf" src="img/btc3.jpg"/>
+	 <img class="surf" src="~/img/btc3.jpg"/>
 	 
 	 
    </div>
